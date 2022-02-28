@@ -1,0 +1,6 @@
+.top-title{
+    font-size: 49px;
+    background: -webkit-linear-gradient(#A22FCE, #FF7000);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
